@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Manufacturer"=-
+"Model"="2012.12"
+;"SupportURL"="www.pgos.cc"
+;"Logo"="\\windows\\system32\\oobe\\info\\FOUNDER_BADGE.bmp"
